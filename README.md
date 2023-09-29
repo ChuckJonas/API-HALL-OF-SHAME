@@ -1,4 +1,4 @@
-# API-HALL-OF-SHAME
+# :trophy: API HALL-OF-SHAME :trophy:
 Celebrating the best of the worst in API design!
 
 *Nominations Welcome*
