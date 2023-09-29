@@ -3,6 +3,8 @@ Celebrating the best of the worst in API design!
 
 *Nominations Welcome*
 
+[![Theme Song](https://img.youtube.com/vi/nSKp2StlS6s/0.jpg)](https://www.youtube.com/watch?v=nSKp2StlS6s)
+
 ## INDUCTEES
 
 COMING SOON
