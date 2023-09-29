@@ -4,6 +4,7 @@ Celebrating the best of the worst in API design!
 *Nominations Welcome*
 
 ## INDUCTEES
+
 COMING SOON
 
 ## NOMINATIONS
@@ -18,6 +19,6 @@ Nomination will be evaluated by a committee of one and accepted if deemed accept
 ### GUIDELINES
 
 - Remove all API keys, PII and other sensitive data from your request/response examples!
-- These must be API's that are either "public" or as part of a licensed software (EG: they are meant to be called by external systems; no "internal only / mom & pop" API's).
-- We are only evaluating on the API Design. API reliablity, uptime, etc is too hard to quanitify.
-- This is about celebrating the "Best of the Worst".  Your entree should highlight the amazingness of the API. No "personal" attacks or name calling.
+- These must be API's that are either "public" or accessible via license to software (EG: they are meant to be integrated with external systems; no "internal only / mom & pop / BFFE" API's).
+- We are only evaluating on the API DESIGN. API reliablity, uptime, one-off bugs, etc are too hard to quanitify.
+- This is about celebrating the "Best of the Worst".  Your nomination should highlight the amazingness of the API. No "personal" attacks or name calling.
